@@ -1,0 +1,36 @@
+<?php
+
+return [
+
+    "title" => "Aanmelden!",
+    "firstname" => "Voornaam",
+    "middlename" => "Tussenvoegsel",
+    "lastname" => "Achternaam",
+    "gender" => "Geslacht",
+    "male" => "Man",
+    "female" => "Vrouw",
+    "age" => "Leeftijd",
+    "email" => "E-mailadres",
+    "tel" => "Telefoonnummer",
+    "street" => "Straatnaam",
+    "postal" => "Postcode",
+    "hnumber" => "Huisnummer",
+    "country" => "Land",
+    "province" => "Provincie",
+    "province title" => "Selecteer een provincie",
+    "area" => "Stad/Dorp",
+    "njgroup" => "Tijd",
+    "time" => "Kies een tijd",
+    "child" => "Ik wil mijn kind aanmelden",
+    "child title" => "Kies alstublieft een optie",
+    "with" => "Ja",
+    "without" => "Nee",
+    "16" => "Ik ben 16 jaar of ouder",
+    "swim" => "Ik ben in het bezit van een zwemdiploma",
+    "body" => "Ik heb geen lichamelijke klachten",
+    "coldwater" => "Ik ben bewust van de risico's van zwemmen in koud water",
+    "risks" => "Ik neem op eigen risico deel aan dit evenement",
+    "listen" => "Ik zal ten alle tijden naar de medewerkers van dit evenement luisteren",
+    "button" => "Meld mij aan!",
+
+];
